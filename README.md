@@ -117,4 +117,3 @@ python train.py
 ---
 
 **License**: MIT  
-**Conference**: Presented at NeurIPS 2024
